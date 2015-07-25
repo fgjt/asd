@@ -26,7 +26,7 @@ $password_hase=md5($password);
   }
 
 
-
+echo " supply a username and password";
 }
 
 ?>
